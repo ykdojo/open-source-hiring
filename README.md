@@ -24,11 +24,11 @@ Have you come across any job posting at an open source company? Feel free to add
 - > Note: Keep all the job posts fresh, with a limit of 3 months range
 - > First Job is an example of how to fill it out
 
-| Position Name             | Company           | Tech Stack      | Expiring Date       | Link to apply               |
-| -------------             | -------------     | --------        | ---------           | -----------                 |
-| Frontend Developer        | Google            | MERN            | 3rd Feburary, 2024  | ![Apply](google.com)        |
-|                           |                   |                 |                     |                             |
-|                           |                   |                 |                     |                             |
+| Position Name       | Company           | Tech Stack       | Expiring Date    | Link to apply             |
+| :-------------:     | :-------------:   | :--------:       | :--------------: | :----------:              |
+| Frontend Developer  | OpenZeppelin      | React,Solidity   | -------          | [Apply](shorturl.at/atVW8)|
+|                     |                   |                  |                  |                           |
+
 
 
 
