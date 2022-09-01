@@ -26,7 +26,7 @@ Have you come across any job posting at an open source company? Feel free to add
 
 | Position Name             | Company           | Tech Stack      | Expiring Date       | Link to apply               |
 | -------------             | -------------     | --------        | ---------           | -----------                 |
-| Frontend Developer        | Google            | MERN            | 3rd Feburary, 2024  | ![Apply](https://github.com/ykdojo/open-source-hiring)        |
+| Frontend Developer        | Google            | MERN            | 3rd Feburary, 2024  | [Apply](https://github.com/ykdojo/open-source-hiring)        |
 |                           |                   |                 |                     |                             |
 |                           |                   |                 |                     |                             |
 
