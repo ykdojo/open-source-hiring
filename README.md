@@ -19,19 +19,16 @@ We're not sure what it'd look like exactly, but I personally think there are a l
 ## How we're going to build it
 We're going to build it, the open source way, of course! This repo is under MIT license, and we're going to build it here.
 
-## Tech stack
-We don't know yet what the tech stack is going to be.
-
-One idea I have for it is, Django + Postgres + TailwindCSS.
-
-Since it'll mostly be a static site, using something like Django is probably reasonable.
-
-For hosting - probably something like Fly.io or Railway.app.
-
 ## Job postings:
+Have you come across any job posting at an open source company? Feel free to add it below:
+- > Note: Keep all the job posts fresh, with a limit of 3 months range
+- > First Job is an example of how to fill it out
 
-Have you come across any job posting at an open source company? Feel free to add it below with the format:
+| Position Name             | Company           | Tech Stack      | Expiring Date       | Link to apply               |
+| -------------             | -------------     | --------        | ---------           | -----------                 |
+| Frontend Developer        | Google            | MERN            | 3rd Feburary, 2024  | ![Apply](google.com)        |
+|                           |                   |                 |                     |                             |
+|                           |                   |                 |                     |                             |
 
-\<Position Name\> at \<Company\>, expiring at December 1, 2022
 
-Just to keep all the job posts fresh, let's have them expire in 3 months by default.
+
