@@ -27,3 +27,11 @@ One idea I have for it is, Django + Postgres + TailwindCSS.
 Since it'll mostly be a static site, using something like Django is probably reasonable.
 
 For hosting - probably something like Fly.io or Railway.app.
+
+## Job postings:
+
+Have you come across any job posting at an open source company? Feel free to add it below with the format:
+
+\<Position Name\> at \<Company\>, expiring at December 1, 2022
+
+Just to keep all the job posts fresh, let's have them expire in 3 months by default.
