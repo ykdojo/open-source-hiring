@@ -27,7 +27,7 @@ Have you come across any job posting at an open source company? Feel free to add
 | Position Name       | Company           | Tech Stack       | Expiring Date    | Link to apply             |
 | :-------------:     | :-------------:   | :--------:       | :--------------: | :----------:              |
 | Frontend Developer  | OpenZeppelin      | React, Solidity   |  December, 2022   | [Apply](https://www.openzeppelin.com/jobs/opening?gh_jid=5283107003)|
-| Lead Web3 Frontend Engineer |  Toucan Protocol   |  React, TypeScript, Solidity, Hardhat | January 1, 2023 | [Apply](https://boards.eu.greenhouse.io/toucanearth/jobs/4063363101) |
+| Senior Full-Stack Engineer |  Amplication   |  MERN, AWS, Google Cloud | January 1, 2023 | [Apply](https://amplication.breezy.hr/p/77313a7acfa1-senior-full-stack-engineer) |
 
 
 
