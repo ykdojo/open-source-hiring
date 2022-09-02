@@ -24,11 +24,7 @@ Have you come across any job posting at an open source company? Feel free to add
 - Note: Keep all the job posts fresh, with a limit of 3 months range
 - The first job is an example of how to fill it out
 
-| Position Name             | Company           | Tech Stack      | Expiring Date       | Link to apply               |
-| -------------             | -------------     | --------        | ---------           | -----------                 |
-| Frontend Developer        | Google            | MERN            | 3rd Feburary, 2024  | [Apply](https://github.com/ykdojo/open-source-hiring)        |
-|                           |                   |                 |                     |                             |
-|                           |                   |                 |                     |                             |
-
-
-
+| Position Name       | Company           | Tech Stack       | Expiring Date    | Link to apply             |
+| :-------------:     | :-------------:   | :--------:       | :--------------: | :----------:              |
+| Frontend Developer  | OpenZeppelin      | React, Solidity   |  December 1, 2022   | [Apply](https://www.openzeppelin.com/jobs/opening?gh_jid=5283107003)|
+|                     |                   |                  |                  |                           |
