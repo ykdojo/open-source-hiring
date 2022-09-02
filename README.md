@@ -1,12 +1,12 @@
-# Open Source Hiring
-A GitHub repo (and later a website) that lists job postings that are open at open source companies!
+# Open Source Hiring (tentative name)
+A job site that lists job postings that are open at open source companies!
 
 ## Motivation
 Open source is the future. It's a great way for candidates to practice their craft, showcase their skills, and network with other engineers.
 
 For companies, it's a great way to discover talent they might miss otherwise.
 
-So, what if there was a place that lists job postings that are open at these open source-centric companies?
+So, what if there was a website that lists job postings that are open at these open source-centric companies?
 
 What would the application process look like then?
 
@@ -21,10 +21,14 @@ We're going to build it, the open source way, of course! This repo is under MIT 
 
 ## Job postings:
 Have you come across any job posting at an open source company? Feel free to add it below:
-- Note: Keep all the job posts fresh, with a limit of 3 months range
-- The first job is an example of how to fill it out
+- > Note: Keep all the job posts fresh, with a limit of 3 months range
+- > First Job is an example of how to fill it out
 
 | Position Name       | Company           | Tech Stack       | Expiring Date    | Link to apply             |
 | :-------------:     | :-------------:   | :--------:       | :--------------: | :----------:              |
-| Frontend Developer  | OpenZeppelin      | React, Solidity   |  December 1, 2022   | [Apply](https://www.openzeppelin.com/jobs/opening?gh_jid=5283107003)|
-|                     |                   |                  |                  |                           |
+| Frontend Developer  | OpenZeppelin      | React, Solidity   |  December, 2022   | [Apply](https://www.openzeppelin.com/jobs/opening?gh_jid=5283107003)|
+| Lead Web3 Frontend Engineer |  Toucan Protocol   |  React, TypeScript, Solidity, Hardhat | January 1, 2023 | [Apply](https://boards.eu.greenhouse.io/toucanearth/jobs/4063363101) |
+
+
+
+
