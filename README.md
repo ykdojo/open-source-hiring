@@ -26,4 +26,4 @@ Have you come across any job posting at an open source company? Feel free to add
 | Position Name       | Company           | Tech Stack       | Expiring Date    | Link to apply             |
 | :-------------:     | :-------------:   | :--------:       | :--------------: | :----------:              |
 | Frontend Developer  | OpenZeppelin      | React, Solidity   |  December 1, 2022   | [Apply](https://www.openzeppelin.com/jobs/opening?gh_jid=5283107003)|
-|        -            | Red Hat           |      -            | currently           | [Apply](https://www.redhat.com/en/jobs)                          |
+|        -            | Red Hat           |      -            | currently open      | [Apply](https://www.redhat.com/en/jobs)                          |
